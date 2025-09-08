@@ -25,7 +25,6 @@ I am currently preparing for graduate studies and am actively seeking **Research
 
 *   **Programming & Technical Tools:** Python (NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch), MATLAB, Simulink.
 *   **Engineering Domains:** Thermodynamics, Heat Transfer, Power Plant Design, Control Systems.
-*   **Current Academic Pursuits:** Advanced topics in Machine Learning, Reinforcement Learning, and Nonlinear System Optimization.
 
 ---
 
