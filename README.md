@@ -1,11 +1,9 @@
 # Amirmohammad Dehghani
 
-**B.Sc. Candidate in Energy Engineering**  
+**B.Sc. Student in Energy Engineering**  
 **Amirkabir University of Technology (Tehran Polytechnic)**  
 
 ---
-
-### Academic Profile
 
 I am an undergraduate student in Energy Engineering at Amirkabir University of Technology, where I am cultivating a strong foundation in thermodynamic systems, fluid mechanics, and power generation. My academic pursuit is focused on the application of computational intelligence to address complex challenges in energy systems.
 
@@ -33,9 +31,8 @@ I am currently preparing for graduate studies and am actively seeking **Research
 
 ### Contact & Links
 
-*   **Email:** [your.email@domain.com]
-*   **LinkedIn:** [https://www.linkedin.com/in/your-profile/]
-*   **GitHub:** [https://github.com/your-username]
+*   **Email:** [amirdehghani9527@gmail.com]
+*   **LinkedIn:** [www.linkedin.com/in/amirmohammad-dehghani-b5a86323b]
 
 ---
 
