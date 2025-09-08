@@ -9,7 +9,7 @@ I am an undergraduate student in Energy Engineering at Amirkabir University of T
 
 My research interests lie at the intersection of **Energy Systems Modeling**, **Optimization**, and **Machine Learning**. I am particularly interested in the development of data-driven frameworks and intelligent control systems to enhance the efficiency, reliability, and sustainability of power and energy infrastructure. I am actively exploring the potential of reinforcement learning for smart grid management and the integration of renewable energy sources.
 
-I am currently preparing for graduate studies and am actively seeking **Research Internships and PhD Positions** to contribute to pioneering work in these fields.
+I am currently preparing for graduate studies and am actively seeking **Research Internships and Master Positions** to contribute to pioneering work in these fields.
 
 ---
 
