@@ -1,16 +1,42 @@
-## Hi there 👋
+# Amirmohammad Dehghani
 
-<!--
-**Amirmohammad Dehghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Sc. Candidate in Energy Engineering**  
+**Amirkabir University of Technology (Tehran Polytechnic)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Academic Profile
+
+I am an undergraduate student in Energy Engineering at Amirkabir University of Technology, where I am cultivating a strong foundation in thermodynamic systems, fluid mechanics, and power generation. My academic pursuit is focused on the application of computational intelligence to address complex challenges in energy systems.
+
+My research interests lie at the intersection of **Energy Systems Modeling**, **Optimization**, and **Machine Learning**. I am particularly interested in the development of data-driven frameworks and intelligent control systems to enhance the efficiency, reliability, and sustainability of power and energy infrastructure. I am actively exploring the potential of reinforcement learning for smart grid management and the integration of renewable energy sources.
+
+I am currently preparing for graduate studies and am actively seeking **Research Internships and PhD Positions** to contribute to pioneering work in these fields.
+
+---
+
+### Research Interests & Focus
+
+*   **Computational Modeling & Optimization:** Application of numerical methods and optimization algorithms for energy system design and operation.
+*   **Machine Learning for Energy Systems:** Utilizing predictive modeling, reinforcement learning, and AI-driven control strategies for smart grids and power electronics.
+*   **Sustainable Energy Transition:** Research focused on the integration and management of renewable energy sources to build resilient and low-carbon energy systems.
+
+---
+
+### Skills & Proficiencies
+
+*   **Programming & Technical Tools:** Python (NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch), MATLAB, Simulink.
+*   **Engineering Domains:** Thermodynamics, Heat Transfer, Power Plant Design, Control Systems.
+*   **Current Academic Pursuits:** Advanced topics in Machine Learning, Reinforcement Learning, and Nonlinear System Optimization.
+
+---
+
+### Contact & Links
+
+*   **Email:** [your.email@domain.com]
+*   **LinkedIn:** [https://www.linkedin.com/in/your-profile/]
+*   **GitHub:** [https://github.com/your-username]
+
+---
+
+*Thank you for visiting my academic profile. I welcome inquiries regarding research collaboration, academic opportunities, or scholarly discussion. Please do not hesitate to contact me.*
